@@ -1,0 +1,117 @@
+.App {
+  padding: 50px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.space-btw {
+  justify-content: space-between;
+}
+
+.justify-end {
+  justify-content: end;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.grow1 {
+  flex: 1;
+}
+
+.grow3 {
+  flex: 3;
+}
+
+.p-10 {
+  padding: 10px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+.m-10 {
+  margin: 10px;
+}
+
+.toolbar {
+  padding: 20px;
+  background-color: darkslategrey;
+  color: white;
+  margin-bottom: 20px;
+}
+
+a {
+  margin-right: 20px;
+  color: white;
+}
+
+.text-red {
+  color: tomato;
+}
+
+.square {
+  border: 1px solid #ccc;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+input,
+textarea,
+select {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+h1,
+h3,
+h6 {
+  margin: 0;
+}
+
+.items-list {
+  background-color: seashell;
+  border-radius: 5px;
+}
+
+.alert-box {
+  background-color: khaki;
+  padding-left: 15px;
+  padding-right: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 3px;
+  margin-bottom: 5px;
+}
